@@ -9,6 +9,8 @@ It's a good idea to have an account in this sites.
 ## Tutorials
 * http://leveluptuts.com/
 * http://tutsplus.com/
-
+* http://medialoot.com/blog/
+* 
 ## Newsletters
 * https://bohemian.curated.co/ - Sketch news
+* http://medialoot.com/
