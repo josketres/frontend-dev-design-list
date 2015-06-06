@@ -14,3 +14,6 @@ It's a good idea to have an account in this sites.
 ## Newsletters
 * https://bohemian.curated.co/ - Sketch news
 * http://medialoot.com/
+
+## Blogs
+* http://52weeksofux.com/
