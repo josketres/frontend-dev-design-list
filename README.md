@@ -17,3 +17,6 @@ It's a good idea to have an account in this sites.
 
 ## Blogs
 * http://52weeksofux.com/
+
+## Inspiration (showcases)
+* http://land-book.com/
